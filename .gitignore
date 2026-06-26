@@ -44,3 +44,9 @@ checkpoints/
 *.pt
 *.pth
 *.ckpt
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.pt
+Icon?
